@@ -10,10 +10,7 @@ Você deve criar um projeto Java chamado **ContaBanco**, que será executado via
 
 ## 📁 Estrutura do Projeto
 
-Dentro do projeto, crie a classe principal chamada:
-
-
-Todo o código será implementado nesta classe.
+Dentro do projeto, crie a classe ContaTerminal.java para realizar toda a codificação do nosso programa.
 
 ---
 
